@@ -2,7 +2,8 @@
 <project version="4">
   <component name="UserContentModel">
     <attachedFolders>
-      <Path>../../AspNetCoreMvcHtmxTemplate</Path>
+      <Path>../../QueuedBackgroundTasksTemplate</Path>
+      <Path>../../spike-aspnet-queued-backgroundtasks</Path>
     </attachedFolders>
     <explicitIncludes />
     <explicitExcludes />

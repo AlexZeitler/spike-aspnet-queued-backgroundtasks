@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using AspNetCoreMvcHtmx.Models;
+using QueuedBackgroundTasks.Models;
 
-namespace AspNetCoreMvcHtmx.Controllers;
+namespace QueuedBackgroundTasks.Controllers;
 
 public class HomeController : Controller
 {

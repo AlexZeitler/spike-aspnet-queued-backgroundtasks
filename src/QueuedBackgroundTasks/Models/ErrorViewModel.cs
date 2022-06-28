@@ -1,4 +1,4 @@
-namespace AspNetCoreMvcHtmx.Models;
+namespace QueuedBackgroundTasks.Models;
 
 public class ErrorViewModel
 {

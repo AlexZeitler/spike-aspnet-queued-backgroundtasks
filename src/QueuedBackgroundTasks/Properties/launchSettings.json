@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "AspNetCoreMvcHtmx": {
+    "QueuedBackgroundTasks": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

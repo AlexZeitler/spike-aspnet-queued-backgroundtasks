@@ -1,4 +1,4 @@
-namespace AspNetCoreMvcHtmx.Controllers;
+namespace QueuedBackgroundTasks.Controllers;
 
 public static class Constants
 {

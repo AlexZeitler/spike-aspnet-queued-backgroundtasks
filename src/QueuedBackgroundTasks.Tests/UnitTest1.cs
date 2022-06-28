@@ -1,4 +1,4 @@
-namespace AspNetCoreMvcHtmx.Tests;
+namespace QueuedBackgroundTasks.Tests;
 
 public class UnitTest1
 {
